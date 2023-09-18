@@ -1,5 +1,6 @@
 # Lecture_1
-FROM: rocker/rstudio
+My first message
+
 RUN: apt-get update && apt-get install -y git curl
 
 Important message 
